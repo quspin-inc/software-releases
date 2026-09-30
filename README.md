@@ -8,6 +8,7 @@ downloads only; it contains no source code.
 | Software | Version | Platform |
 |---|---|---|
 | [Neuro-1 Control Center](https://github.com/quspin-inc/software-releases/releases/tag/neuro1-control-center-v1.70) | 1.70 | Windows x64 |
+| [QTFM2 UI](https://github.com/quspin-inc/software-releases/releases/tag/qtfm2-ui-v4.10.5) | 4.10.5 | Windows x64 |
 | [QTFM Simple Gradiometer](https://github.com/quspin-inc/software-releases/releases/tag/qtfm-simple-gradiometer-v1.4.1) | 1.4.1 | Windows x64 |
 
 All versions are listed on the [Releases page](https://github.com/quspin-inc/software-releases/releases).
